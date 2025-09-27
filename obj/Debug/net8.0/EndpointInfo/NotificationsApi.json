@@ -1,0 +1,429 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "NotificationsApi",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/NotificationsMessage": {
+      "get": {
+        "tags": [
+          "NotificationsMessage"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/NotificationDto"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/NotificationDto"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/NotificationDto"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "NotificationsMessage"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AddNotificationDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AddNotificationDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/AddNotificationDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/NotificationMessage"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/NotificationMessage"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/NotificationMessage"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/NotificationsMessage/{id}": {
+      "get": {
+        "tags": [
+          "NotificationsMessage"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "NotificationsMessage"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateNotificationDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateNotificationDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateNotificationDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "NotificationsMessage"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "AddNotificationDto": {
+        "type": "object",
+        "properties": {
+          "notificationChannel": {
+            "type": "string",
+            "nullable": true
+          },
+          "notificationHeading": {
+            "type": "string",
+            "nullable": true
+          },
+          "notificationBody": {
+            "type": "string",
+            "nullable": true
+          },
+          "notificationFooter": {
+            "type": "string",
+            "nullable": true
+          },
+          "notificationSubject": {
+            "type": "string",
+            "nullable": true
+          },
+          "repeatEvery": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "noOfTimesToRepeat": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "repeatNotification": {
+            "type": "string",
+            "nullable": true
+          },
+          "useDocumentTemplate": {
+            "type": "boolean",
+            "nullable": true
+          },
+          "documentTemplateID": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "NotificationDto": {
+        "type": "object",
+        "properties": {
+          "messageId": {
+            "type": "string",
+            "nullable": true
+          },
+          "notificationMessageID": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "notificationChannel": {
+            "type": "string",
+            "nullable": true
+          },
+          "notificationHeading": {
+            "type": "string",
+            "nullable": true
+          },
+          "notificationBody": {
+            "type": "string",
+            "nullable": true
+          },
+          "notificationFooter": {
+            "type": "string",
+            "nullable": true
+          },
+          "notificationSubject": {
+            "type": "string",
+            "nullable": true
+          },
+          "repeatEvery": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "noOfTimesToRepeat": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "repeatNotification": {
+            "type": "string",
+            "nullable": true
+          },
+          "useDocumentTemplate": {
+            "type": "boolean",
+            "nullable": true
+          },
+          "documentTemplateID": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "createdBy": {
+            "type": "string",
+            "nullable": true
+          },
+          "createdDate": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "updatedBy": {
+            "type": "string",
+            "nullable": true
+          },
+          "updatedDate": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "NotificationMessage": {
+        "type": "object",
+        "properties": {
+          "notificationMessageID": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "notificationChannel": {
+            "type": "string",
+            "nullable": true
+          },
+          "notificationHeading": {
+            "type": "string",
+            "nullable": true
+          },
+          "notificationBody": {
+            "type": "string",
+            "nullable": true
+          },
+          "notificationFooter": {
+            "type": "string",
+            "nullable": true
+          },
+          "notificationSubject": {
+            "type": "string",
+            "nullable": true
+          },
+          "repeatEvery": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "noOfTimesToRepeat": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "createdBy": {
+            "type": "string",
+            "nullable": true
+          },
+          "createdDate": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "updatedBy": {
+            "type": "string",
+            "nullable": true
+          },
+          "updatedDate": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "repeatNotification": {
+            "type": "string",
+            "nullable": true
+          },
+          "useDocumentTemplate": {
+            "type": "boolean",
+            "nullable": true
+          },
+          "documentTemplateID": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "UpdateNotificationDto": {
+        "type": "object",
+        "properties": {
+          "notificationMessageID": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "notificationChannel": {
+            "type": "string",
+            "nullable": true
+          },
+          "notificationHeading": {
+            "type": "string",
+            "nullable": true
+          },
+          "notificationBody": {
+            "type": "string",
+            "nullable": true
+          },
+          "notificationFooter": {
+            "type": "string",
+            "nullable": true
+          },
+          "notificationSubject": {
+            "type": "string",
+            "nullable": true
+          },
+          "repeatEvery": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "noOfTimesToRepeat": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "repeatNotification": {
+            "type": "string",
+            "nullable": true
+          },
+          "useDocumentTemplate": {
+            "type": "boolean",
+            "nullable": true
+          },
+          "documentTemplateID": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}
