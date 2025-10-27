@@ -1,50 +1,92 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\",
+  "WorkspaceRootPath": "C:\\Users\\postgres\\Documents\\Notification\\NotificationMes-Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi\\NotificationsApi.csproj|c:\\users\\rams\\desktop\\my projects\\dotnet\\notificationsapi\\notificationsapi\\controllers\\notificationsmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi\\NotificationsApi.csproj|solutionrelative:notificationsapi\\controllers\\notificationsmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi.csproj|c:\\users\\postgres\\documents\\notification\\notificationmes-api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi\\NotificationsApi.csproj|c:\\users\\rams\\desktop\\my projects\\dotnet\\notificationsapi\\notificationsapi\\models\\notificationmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi\\NotificationsApi.csproj|solutionrelative:notificationsapi\\models\\notificationmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi.csproj|c:\\users\\postgres\\documents\\notification\\notificationmes-api\\migrations\\20251025055307_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi.csproj|solutionrelative:migrations\\20251025055307_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi\\NotificationsApi.csproj|c:\\users\\rams\\desktop\\my projects\\dotnet\\notificationsapi\\notificationsapi\\dtos\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi\\NotificationsApi.csproj|solutionrelative:notificationsapi\\dtos\\notificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi.csproj|c:\\users\\postgres\\documents\\notification\\notificationmes-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi\\NotificationsApi.csproj|c:\\users\\rams\\desktop\\my projects\\dotnet\\notificationsapi\\notificationsapi\\dtos\\addnotificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi\\NotificationsApi.csproj|solutionrelative:notificationsapi\\dtos\\addnotificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi.csproj|c:\\users\\postgres\\documents\\notification\\notificationmes-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi\\NotificationsApi.csproj|c:\\users\\rams\\desktop\\my projects\\dotnet\\notificationsapi\\notificationsapi\\notificationsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi\\NotificationsApi.csproj|solutionrelative:notificationsapi\\notificationsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi.csproj|c:\\users\\postgres\\documents\\notification\\notificationmes-api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi\\NotificationsApi.csproj|c:\\users\\rams\\desktop\\my projects\\dotnet\\notificationsapi\\notificationsapi\\dtos\\updatenotificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi\\NotificationsApi.csproj|solutionrelative:notificationsapi\\dtos\\updatenotificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi.csproj|c:\\users\\postgres\\documents\\notification\\notificationmes-api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi\\NotificationsApi.csproj|c:\\users\\rams\\desktop\\my projects\\dotnet\\notificationsapi\\notificationsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi\\NotificationsApi.csproj|solutionrelative:notificationsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi.csproj|c:\\users\\postgres\\documents\\notification\\notificationmes-api\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi.csproj|solutionrelative:dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi\\NotificationsApi.csproj|c:\\users\\rams\\desktop\\my projects\\dotnet\\notificationsapi\\notificationsapi\\properties\\launchsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi\\NotificationsApi.csproj|solutionrelative:notificationsapi\\properties\\launchsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi.csproj|c:\\users\\postgres\\documents\\notification\\notificationmes-api\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi.csproj|solutionrelative:users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi\\NotificationsApi.csproj|c:\\users\\rams\\desktop\\my projects\\dotnet\\notificationsapi\\notificationsapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi\\NotificationsApi.csproj|solutionrelative:notificationsapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi.csproj|c:\\users\\postgres\\documents\\notification\\notificationmes-api\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi\\NotificationsApi.csproj|c:\\users\\rams\\desktop\\my projects\\dotnet\\notificationsapi\\notificationsapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi\\NotificationsApi.csproj|solutionrelative:notificationsapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi.csproj|c:\\users\\postgres\\documents\\notification\\notificationmes-api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi\\NotificationsApi.csproj|c:\\users\\rams\\desktop\\my projects\\dotnet\\notificationsapi\\notificationsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi\\NotificationsApi.csproj|solutionrelative:notificationsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi.csproj|c:\\users\\postgres\\documents\\notification\\notificationmes-api\\models\\notificationmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi.csproj|solutionrelative:models\\notificationmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi.csproj|c:\\users\\postgres\\documents\\notification\\notificationmes-api\\controllers\\notificationsmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi.csproj|solutionrelative:controllers\\notificationsmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi.csproj|c:\\users\\postgres\\documents\\notification\\notificationmes-api\\notificationsapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi.csproj|solutionrelative:notificationsapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi.csproj|c:\\users\\postgres\\documents\\notification\\notificationmes-api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5288BC86-DE44-4BED-BDE1-90725ED069CE}|NotificationsApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Controllers\\NotificationsMessageController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Dtos\\AddNotificationDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Dtos\\UpdateNotificationDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Dtos\\NotificationDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Models\\NotificationMessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Properties\\launchSettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,139 +96,287 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AddNotificationDto.cs",
-              "DocumentMoniker": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Dtos\\AddNotificationDto.cs",
-              "RelativeDocumentMoniker": "NotificationsApi\\Dtos\\AddNotificationDto.cs",
-              "ToolTip": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Dtos\\AddNotificationDto.cs",
-              "RelativeToolTip": "NotificationsApi\\Dtos\\AddNotificationDto.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T06:55:07.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UpdateNotificationDto.cs",
-              "DocumentMoniker": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Dtos\\UpdateNotificationDto.cs",
-              "RelativeDocumentMoniker": "NotificationsApi\\Dtos\\UpdateNotificationDto.cs",
-              "ToolTip": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Dtos\\UpdateNotificationDto.cs",
-              "RelativeToolTip": "NotificationsApi\\Dtos\\UpdateNotificationDto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA8wA4AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T07:02:51.006Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "NotificationDto.cs",
-              "DocumentMoniker": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Dtos\\NotificationDto.cs",
-              "RelativeDocumentMoniker": "NotificationsApi\\Dtos\\NotificationDto.cs",
-              "ToolTip": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Dtos\\NotificationDto.cs",
-              "RelativeToolTip": "NotificationsApi\\Dtos\\NotificationDto.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T07:07:14.578Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NotificationsApi.csproj",
-              "DocumentMoniker": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\NotificationsApi.csproj",
-              "RelativeDocumentMoniker": "NotificationsApi\\NotificationsApi.csproj",
-              "ToolTip": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\NotificationsApi.csproj",
-              "RelativeToolTip": "NotificationsApi\\NotificationsApi.csproj",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBMAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-25T04:10:54.82Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NotificationsMessageController.cs",
-              "DocumentMoniker": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Controllers\\NotificationsMessageController.cs",
-              "RelativeDocumentMoniker": "NotificationsApi\\Controllers\\NotificationsMessageController.cs",
-              "ToolTip": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Controllers\\NotificationsMessageController.cs",
-              "RelativeToolTip": "NotificationsApi\\Controllers\\NotificationsMessageController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABkAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T04:32:58.186Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\postgres\\Documents\\Notification\\NotificationMes-Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\postgres\\Documents\\Notification\\NotificationMes-Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-16T08:20:43.795Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "NotificationMessage.cs",
-              "DocumentMoniker": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Models\\NotificationMessage.cs",
-              "RelativeDocumentMoniker": "NotificationsApi\\Models\\NotificationMessage.cs",
-              "ToolTip": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Models\\NotificationMessage.cs",
-              "RelativeToolTip": "NotificationsApi\\Models\\NotificationMessage.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA8wBUAAAAAAAAAAAAAAA==",
+              "Title": "20251025055307_intialcreate.cs",
+              "DocumentMoniker": "C:\\Users\\postgres\\Documents\\Notification\\NotificationMes-Api\\Migrations\\20251025055307_intialcreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251025055307_intialcreate.cs",
+              "ToolTip": "C:\\Users\\postgres\\Documents\\Notification\\NotificationMes-Api\\Migrations\\20251025055307_intialcreate.cs",
+              "RelativeToolTip": "Migrations\\20251025055307_intialcreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T04:14:05.29Z",
+              "WhenOpened": "2025-10-25T05:53:07.947Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "NotificationsApi\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "NotificationsApi\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-26T13:54:51.895Z"
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\postgres\\Documents\\Notification\\NotificationMes-Api\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\postgres\\Documents\\Notification\\NotificationMes-Api\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T10:04:35.616Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Program.cs",
-              "RelativeDocumentMoniker": "NotificationsApi\\Program.cs",
-              "ToolTip": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Program.cs",
-              "RelativeToolTip": "NotificationsApi\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBwAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\postgres\\Documents\\Notification\\NotificationMes-Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\postgres\\Documents\\Notification\\NotificationMes-Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwEkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T03:54:22.115Z"
+              "WhenOpened": "2025-10-22T05:33:04.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NotificationMessage.cs",
+              "DocumentMoniker": "C:\\Users\\postgres\\Documents\\Notification\\NotificationMes-Api\\Models\\NotificationMessage.cs",
+              "RelativeDocumentMoniker": "Models\\NotificationMessage.cs",
+              "ToolTip": "C:\\Users\\postgres\\Documents\\Notification\\NotificationMes-Api\\Models\\NotificationMessage.cs",
+              "RelativeToolTip": "Models\\NotificationMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T05:51:08.129Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "NotificationsApi\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "NotificationsApi\\Properties\\launchSettings.json",
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\postgres\\Documents\\Notification\\NotificationMes-Api\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "C:\\Users\\postgres\\Documents\\Notification\\NotificationMes-Api\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T05:37:54.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\postgres\\Documents\\Notification\\NotificationMes-Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\postgres\\Documents\\Notification\\NotificationMes-Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T03:28:27.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\postgres\\Documents\\Notification\\NotificationMes-Api\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\postgres\\Documents\\Notification\\NotificationMes-Api\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwD0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T10:00:59.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "users.json",
+              "DocumentMoniker": "C:\\Users\\postgres\\Documents\\Notification\\NotificationMes-Api\\users.json",
+              "RelativeDocumentMoniker": "users.json",
+              "ToolTip": "C:\\Users\\postgres\\Documents\\Notification\\NotificationMes-Api\\users.json",
+              "RelativeToolTip": "users.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-26T05:13:23.487Z"
+              "WhenOpened": "2025-10-24T15:34:25.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\postgres\\Documents\\Notification\\NotificationMes-Api\\Dtos\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\postgres\\Documents\\Notification\\NotificationMes-Api\\Dtos\\EmployeeDto.cs",
+              "RelativeToolTip": "Dtos\\EmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T03:29:02.253Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\postgres\\Documents\\Notification\\NotificationMes-Api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\postgres\\Documents\\Notification\\NotificationMes-Api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T10:05:12.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NotificationsMessageController.cs",
+              "DocumentMoniker": "C:\\Users\\postgres\\Documents\\Notification\\NotificationMes-Api\\Controllers\\NotificationsMessageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NotificationsMessageController.cs",
+              "ToolTip": "C:\\Users\\postgres\\Documents\\Notification\\NotificationMes-Api\\Controllers\\NotificationsMessageController.cs",
+              "RelativeToolTip": "Controllers\\NotificationsMessageController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAIBJwEIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T12:02:30.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\postgres\\Documents\\Notification\\NotificationMes-Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\postgres\\Documents\\Notification\\NotificationMes-Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-16T08:24:58.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NotificationsApi.http",
+              "DocumentMoniker": "C:\\Users\\postgres\\Documents\\Notification\\NotificationMes-Api\\NotificationsApi.http",
+              "RelativeDocumentMoniker": "NotificationsApi.http",
+              "ToolTip": "C:\\Users\\postgres\\Documents\\Notification\\NotificationMes-Api\\NotificationsApi.http",
+              "RelativeToolTip": "NotificationsApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-16T08:25:36.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddNotificationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Dtos\\AddNotificationDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Dtos\\AddNotificationDto.cs",
+              "ToolTip": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Dtos\\AddNotificationDto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Dtos\\AddNotificationDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T06:55:07.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateNotificationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Dtos\\UpdateNotificationDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Dtos\\UpdateNotificationDto.cs",
+              "ToolTip": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Dtos\\UpdateNotificationDto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Dtos\\UpdateNotificationDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T07:02:51.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NotificationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Dtos\\NotificationDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Dtos\\NotificationDto.cs",
+              "ToolTip": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Dtos\\NotificationDto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Dtos\\NotificationDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T07:07:14.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NotificationsMessageController.cs",
+              "DocumentMoniker": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Controllers\\NotificationsMessageController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Controllers\\NotificationsMessageController.cs",
+              "ToolTip": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Controllers\\NotificationsMessageController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Controllers\\NotificationsMessageController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T04:32:58.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NotificationMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Models\\NotificationMessage.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Models\\NotificationMessage.cs",
+              "ToolTip": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Models\\NotificationMessage.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Models\\NotificationMessage.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T04:14:05.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\..\\..\\..\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Properties\\launchSettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-26T13:54:51.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T03:54:22.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\..\\..\\..\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Properties\\launchSettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-26T05:13:23.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "NotificationsApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "NotificationsApi\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAABQwA0AAAAzAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\..\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\Data\\AppDbContext.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T04:16:24.565Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 23,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\appsettings.json",
-              "RelativeDocumentMoniker": "NotificationsApi\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\appsettings.json",
               "ToolTip": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\appsettings.json",
-              "RelativeToolTip": "NotificationsApi\\appsettings.json",
+              "RelativeToolTip": "..\\..\\..\\..\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\appsettings.json",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-09-25T04:36:35.956Z"
             }

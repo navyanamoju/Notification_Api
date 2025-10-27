@@ -1,0 +1,11 @@
+# Build and IDE folders
+bin/
+obj/
+.vs/
+publish/
+
+# User-specific files
+*.user
+*.suo
+*.cache
+*.log

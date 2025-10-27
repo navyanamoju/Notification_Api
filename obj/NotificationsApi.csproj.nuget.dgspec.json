@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\NotificationsApi.csproj": {}
+    "C:\\Users\\postgres\\Documents\\Notification\\NotificationMes-Api\\NotificationsApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\NotificationsApi.csproj": {
+    "C:\\Users\\postgres\\Documents\\Notification\\NotificationMes-Api\\NotificationsApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\NotificationsApi.csproj",
+        "projectUniqueName": "C:\\Users\\postgres\\Documents\\Notification\\NotificationMes-Api\\NotificationsApi.csproj",
         "projectName": "NotificationsApi",
-        "projectPath": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\NotificationsApi.csproj",
+        "projectPath": "C:\\Users\\postgres\\Documents\\Notification\\NotificationMes-Api\\NotificationsApi.csproj",
         "packagesPath": "C:\\Users\\Rams\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rams\\Desktop\\my projects\\dotnet\\NotificationsApi\\NotificationsApi\\obj\\",
+        "outputPath": "C:\\Users\\postgres\\Documents\\Notification\\NotificationMes-Api\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Rams\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -46,6 +50,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.9, )"
@@ -55,6 +63,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -90,7 +102,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

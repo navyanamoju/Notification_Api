@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿
+using Microsoft.EntityFrameworkCore;
 using NotificationsApi.Models;
 
 namespace NotificationsApi.Data
@@ -8,6 +9,7 @@ namespace NotificationsApi.Data
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
         public DbSet<NotificationMessage> NotificationMessages { get; set; }
+        public DbSet<Employee> Employees { get; set; } = null!;
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
